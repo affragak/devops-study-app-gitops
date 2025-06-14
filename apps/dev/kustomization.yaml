@@ -10,4 +10,4 @@ images:
   - name: ghcr.io/affragak/study-app-api
     newTag: backend-v0.2.0
   - name: ghcr.io/affragak/study-app-web
-    newTag: ""
+    newTag: "frontend-v0.1.4"
